@@ -10,7 +10,7 @@
           "style": "scss"
         }
       },
-      "root": "https://dantello192.github.io/angular-app/",
+      "root": "",
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
